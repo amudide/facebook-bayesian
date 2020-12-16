@@ -5,3 +5,4 @@
 * "dummy2.xlsx" stores second half of dummy patient data (N = 500). Proxy for post-use user data.
 * "scraping.ipynb" stores initial scraping work
 * "p-values.ipynb" scrapes "dummy1.xlsx" and "dummy2.xlsx", then reports p-values for all survey items. As of now, we do not split based on demographic data (e.g. "Veteran vs. Caregiver", "Sex", "Age", "Chronic Conditions" etc.)
+* "Bayesian.ipynb" creates a Bayesian Network using the dummy data
