@@ -6,3 +6,4 @@
 * "scraping.ipynb" stores initial scraping work
 * "p-values.ipynb" scrapes "dummy1.xlsx" and "dummy2.xlsx", then reports p-values for all survey items. As of now, we do not split based on demographic data (e.g. "Veteran vs. Caregiver", "Sex", "Age", "Chronic Conditions" etc.)
 * "Bayesian.ipynb" creates a Bayesian Network using the dummy data
+* "Bayesian+cont.ipynb" contains implementation of pymc3 contiuous Bayesian network model
